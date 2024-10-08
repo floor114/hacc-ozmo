@@ -1,3 +1,5 @@
+Forked from: https://github.com/Ligio/hacc-ozmo
+
 # hacc-deebot
 Home Assistant Custom Component for Ecovacs Deebot
 
